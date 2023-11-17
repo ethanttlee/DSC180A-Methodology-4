@@ -23,7 +23,7 @@ index 6522f70,471ce86..3d9f345
      "metadata": {},
      "outputs": [],
      "source": [
- +    "# Exponentiation first\n",
+ +    "# Exponentiation first!\n",
 -     "5 * 2 ** 3"
 +     "3 * 4 ** 2"
      ]
@@ -62,7 +62,7 @@ index 04812ed..6522f70 100644
     "metadata": {},
     "outputs": [],
     "source": [
-+    "# Exponentiation first\n",
++    "# Exponentiation first!\n",
      "5 * 2 ** 3"
     ]
    },
@@ -1804,3 +1804,4 @@ index 0000000..04812ed
 + "nbformat": 4,
 + "nbformat_minor": 2
 +}
+
